@@ -1,0 +1,35 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.7.0
+  http://backwpup.com
+  Blog Name: 여명종합건설
+  Blog URL: https://yeomyeongcon.com
+  Generated on: 2020-04-27 20:08.36
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+BackWPup (v.3.7.0) from Inpsyde GmbH
+	http://backwpup.com
+Elementor (v.2.9.2) from Elementor.com
+	https://elementor.com/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash
+Google Fonts Typography (v.1.9.94) from Fonts Plugin
+	https://wordpress.org/plugins/olympus-google-fonts/
+Orbit Fox Companion (v.2.8.14) from Themeisle
+	https://orbitfox.com/
+Rocket Font (v.1.2.3) from <a href="http://in-web.co.kr/">Qwerty23</a> & <a href="http://rocketpress.kr/">RocketPress</a>
+	http://in-web.co.kr/wordpress/plug-in/wordpress-%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80-%ED%8F%B0%ED%8A%B8%EB%A5%BC-rocket-font/
+WP Reset (v.1.77) from WebFactory Ltd
+	https://wpreset.com/
+
+Active plugins:
+------------------------------
+BackWPup
+Elementor
+Orbit Fox Companion
+WP Reset
+
+Inactive plugins:
+------------------------------
+Google Fonts Typography
+Rocket Font
